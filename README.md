@@ -2,7 +2,7 @@
 
 ### 🎯 Frontend Developer | Web Designer
 
----
+--
 
 ### 🎓 **Education**
 - 🏫 **10th RBSE:** T.B.S.S, Kota, Rajasthan (63.33%) | 2021-2022
